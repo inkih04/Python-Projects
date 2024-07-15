@@ -19,10 +19,3 @@ Welcome to the Python Automation Projects repository! This repository is a colle
 ## Future Additions
 - More automation tools for various tasks.
 - Enhancements and new features for existing projects.
-
-## Getting Started
-To get started with any of the projects, clone this repository and follow the instructions in the respective project folders.
-
-```sh
-git clone https://github.com/inkih04/Python-Automation-Projects.git
-cd Python-Automation-Projects
