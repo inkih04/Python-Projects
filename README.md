@@ -13,6 +13,9 @@ Welcome to the Python Automation Projects repository! This repository is a colle
 ### 3. Folder Organizer
 - **Description**: A script to help you organize your files and folders.
 
+### 3. Website automator
+  -**Description**: Automates the opening of predefined URLs in the browser based on a selection of different options, including "work" or "personal."
+
 ## Future Additions
 - More automation tools for various tasks.
 - Enhancements and new features for existing projects.
