@@ -16,7 +16,7 @@ Welcome to the Python Automation Projects repository! This repository is a colle
 ### 4.Website Automator
 - **Description**: Automates the opening of predefined URLs in the browser based on a selection of different options, including "work" or "personal.".
 
-### 4.PDF Merger
+### 5.PDF Merger
 - **Description**: Merges all the PDF's in a folder
 
 ## Future Additions
