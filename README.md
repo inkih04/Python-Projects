@@ -14,7 +14,7 @@ Welcome to the Python Automation Projects repository! This repository is a colle
 - **Description**: A script to help you organize your files and folders.
 
 ### 4.Website automator
-  -**Description**: Automates the opening of predefined URLs in the browser based on a selection of different options, including "work" or "personal."
+- **Description**: Automates the opening of predefined URLs in the browser based on a selection of different options, including "work" or "personal.".
 
 ## Future Additions
 - More automation tools for various tasks.
