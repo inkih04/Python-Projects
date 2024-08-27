@@ -18,13 +18,11 @@ Welcome to the Python Projects repository! This repository is a collection of va
 ### 5.PDF Merger
 - **Description**: Merges all the PDF's in a folder
 
-# Python Projects
-
-### 1. Budget Tracker app
+### 6. Budget Tracker app
 - **Description**: A simple application to manage and track your expenses and budget.
 
-### 2. Hangman
+### 7. Hangman
 - **Description**: A classic word-guessing game where you try to uncover the hidden word before running out of attempts.
 
-### 3. QuizGame
+### 8. QuizGame
 - **Description**: A fun quiz game where players answer multiple-choice questions to test their knowledge on various topics.
