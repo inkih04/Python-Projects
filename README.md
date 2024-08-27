@@ -1,8 +1,7 @@
 # Python Automation Projects
 
-Welcome to the Python Automation Projects repository! This repository is a collection of various automation projects written in Python, aimed at simplifying and automating everyday tasks.
+Welcome to the Python Projects repository! This repository is a collection of various  projects written in Python, aimed at simplifying and automating everyday tasks.
 
-## Projects Included:
 
 ### 1. YouTube Video Downloader
 - **Description**: A tool that allows you to download videos from YouTube by simply providing the video URL.
